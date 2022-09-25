@@ -2,8 +2,8 @@
 
 For sending Emails we are using nodeMailer package of node we need a transport service also to send proper email
 
-We can choose any one of these Email servicer (Transporter) like Gmail/Outlook/mailtrap etc
-## I have used https://mailtrap.io/  for Email Services with Gmail account we can easily create account on this
+**We can choose any one of these Email servicer (Transporter) like Gmail/Outlook/mailtrap etc\
+ I have used https://mailtrap.io/  for Email Services with Gmail account we can easily create account on this**
 
 open .env file and update these details
 <pre> 
